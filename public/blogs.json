@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://img.freepik.com/free-photo/flat-lay-workstation-with-copy-space-laptop_23-2148430879.jpg",
+      "title": "The Adventure Begins with a Journey into the Unknown",
+      "author": "John Smith",
+      "author-img": "https://img.freepik.com/free-photo/side-view-business-man-writing-agenda_23-2148446239.jpg",
+      "posted-date": "2023-09-12",
+      "reading-time": "10",
+      "hashtags": ["adventure", "fiction", "journey"]
+    },
+    {
+      "id": 2,
+      "cover": "https://img.freepik.com/free-photo/top-view-workspace-with-laptop-notebook_23-2148430831.jpg",
+      "title": "Cooking Delights: Exploring Tasty Recipes from Around the World",
+      "author": "Alice Johnson",
+      "author-img": "https://img.freepik.com/free-photo/positive-female-student-glasses-doing-homework_1262-15095.jpg",
+      "posted-date": "2023-09-11",
+      "reading-time": "15",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover": "https://img.freepik.com/free-photo/top-view-workspace-with-laptop-cup-tea_23-2148430815.jpg",
+      "title": "Tech Trends 2023: Innovations Shaping the Future of Technology",
+      "author": "David Brown",
+      "author-img": "https://img.freepik.com/free-photo/young-man-sitting-spectacles-watches-grey-jacket-holding-his-coffee-cup-along-with-plant-white_140725-14756.jpg",
+      "posted-date": "2023-09-10",
+      "reading-time": "8",
+      "hashtags": ["technology", "innovation", "trends"]
+    },
+    {
+      "id": 4,
+      "cover": "https://img.freepik.com/free-psd/fashion-sale-social-medi-abanner-social-media-template_237398-225.jpg",
+      "title": "Travel Diaries: Exploring the World and Capturing Memorable Experiences",
+      "author": "Emily Davis",
+      "author-img": "https://img.freepik.com/free-photo/trendy-looking-stylish-young-female-with-artistic-glamorous-make-up-posing-wearing-transparent-blouse-tying-black-leather-headscarf-around-her-neck-beauty-fashion-concept_343059-4383.jpg",
+      "posted-date": "2023-09-09",
+      "reading-time": "12",
+      "hashtags": ["travel", "adventure", "explore"]
+    },
+    {
+      "id": 5,
+      "cover": "https://img.freepik.com/free-psd/technology-banner-template_23-2148928991.jpg",
+      "title": "Fitness & Health: Achieving Wellness Through Exercise and Nutrition",
+      "author": "Michael White",
+      "author-img": "https://img.freepik.com/free-photo/young-african-man-standing-isolated_171337-9640.jpg",
+      "posted-date": "2023-09-08",
+      "reading-time": "20",
+      "hashtags": ["fitness", "health", "wellness"]
+    }
+  ]
+  
