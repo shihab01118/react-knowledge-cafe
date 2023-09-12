@@ -10,7 +10,7 @@ function App() {
     <div className='container mx-auto'>
     <Header></Header>
     <hr />
-    <div className='mt-6 md:flex'>
+    <div className='mt-6 md:flex gap-6'>
       <Blogs></Blogs>
       <History></History>
     </div>
