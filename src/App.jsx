@@ -7,10 +7,16 @@ import History from './components/History/History'
 
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
+  const [readingTime, setReadingTime] = useState(0);
 
   const handleAddToBookmark = blog => {
     const newBookmarks = [...bookmarks, blog];
     setBookmarks(newBookmarks)
+  }
+
+  const handleMarkAsRead = time => {
+    const newTime = parseInt(readingTime) + parseInt(time);
+    setReadingTime(newTime);
   }
 
   return (
@@ -18,8 +24,10 @@ function App() {
     <Header></Header>
     <hr />
     <div className='mt-6 md:flex gap-6'>
-      <Blogs handleAddToBookmark={handleAddToBookmark}></Blogs>
-      <History bookmarks={bookmarks}></History>
+      <Blogs 
+      handleAddToBookmark={handleAddToBookmark}
+      handleMarkAsRead={handleMarkAsRead}></Blogs>
+      <History bookmarks={bookmarks} readingTime={readingTime}></History>
     </div>
     </div>
   )
